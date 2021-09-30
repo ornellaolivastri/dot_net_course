@@ -6,9 +6,11 @@
 We learn how to use:
 - Visual Studio 2019 
 - C# 
-- object-oriented paradigm
-- solve algorithm problems
-- HTML and layout
 - .NET Framework
-- Web API.NET Core
+- object-oriented paradigm
+
+To:
+- solve algorithm problems
+- layout with HTML
+- create Web API.NET Core
 - MVC
