@@ -3,13 +3,3 @@ D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\AppWindowsFinalE
 D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.Properties.Resources.resources
 D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.csproj.GenerateResource.cache
 D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.csproj.CoreCompileInputs.cache
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.csproj.AssemblyReference.cache
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinal.Form1.resources
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.Properties.Resources.resources
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.csproj.GenerateResource.cache
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.csproj.CoreCompileInputs.cache
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\bin\Debug\AppWindowsFinalExamen.exe.config
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\bin\Debug\AppWindowsFinalExamen.exe
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\bin\Debug\AppWindowsFinalExamen.pdb
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.exe
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\AppWindowsFinalExamen\obj\Debug\AppWindowsFinalExamen.pdb

@@ -18,9 +18,10 @@ namespace AppWindowsFinal
             InitializeComponent();
         }
 
-        
-        //Tarea 2 ---------------------------------------------------------------------------------------------------
-        private void btnValidations_Click_1(object sender, EventArgs e)
+
+        //Tarea 2
+
+        private void btnValidations_Click(object sender, EventArgs e)
         {
             if ((Convert.ToInt32(txtSalary.Text) > 0) && ((txtRole.Text == "Soporte Tecnico") || (txtRole.Text == "DBA") || (txtRole.Text == "Desarrollador")))
             {
@@ -33,27 +34,26 @@ namespace AppWindowsFinal
         }
 
 
-        //Tarea 3: imprimir nombre completo y puesto en mayuscula ----------------------------------------------------
-
-        private void btnShow_Click_1(object sender, EventArgs e)
+        //Tarea 3: imprimir nombre completo y puesto en mayuscula
+        private void btnShow_Click(object sender, EventArgs e)
         {
             string auxiliarString = txtName.Text + " " + txtLastName.Text + ": " + txtRole.Text;
             lblMessage2.Text = auxiliarString.ToUpper();
         }
 
 
-        //Tarea 4: set hours -----------------------------------------------------------------------------------------
+        //Tarea 4: 
 
-        private double[] workedHours;
+        private string[] workedHours;
 
-        private void btnSetHours_Click_1(object sender, EventArgs e)
+        private void btnSetHours_Click(object sender, EventArgs e)
         {
-            workedHours = new double[5];             //creacion de instancia
+            workedHours = new string[5];             //creacion de instancia
 
 
             for (int i = 0; i < workedHours.Length; i++)
             {
-                workedHours[i] = Convert.ToDouble(Interaction.InputBox("Ingrese horas trabajadas desde el lunes hasta el viernes: "));
+                workedHours[i] = Convert.ToDouble (Interaction.InputBox ("Ingrese horas trabajadas desde el lunes hasta el viernes: ") );
 
             }
 
@@ -71,13 +71,13 @@ namespace AppWindowsFinal
 
             lblAverage.Text = Convert.ToString(averageWorkedHours);
 
-            if (totalWorkedHours < 20)
+            if (averageWorkedHours < 20)
             {
                 lblMessage3.Text = "No tiene un dia libre la proxima semana";
             }
             else
             {
-                if (totalWorkedHours < 30)
+                if (averageWorkedHours < 30)
                 {
                     lblMessage3.Text = "Tiene un dia libre la semana proxima";
                 }
@@ -86,29 +86,11 @@ namespace AppWindowsFinal
                     lblMessage3.Text = "Tiene dos dias libres la semana proxima";
                 }
             }
+
         }
 
 
-        //Tarea 5:
 
-        public void ClearTextBoxes(Control.ControlCollection ctrlCollection)
-        {
-            foreach (Control ctrl in ctrlCollection)
-            {
-                if (ctrl is TextBoxBase)
-                {
-                    ctrl.Text = String.Empty;
-                }
-                else
-                {
-                    ClearTextBoxes(ctrl.Controls);
-                }
-            }
-        }
 
-        private void btnClean_Click(object sender, EventArgs e)
-        {
-            ClearTextBoxes(this.Controls);
-        }
     }
 }
