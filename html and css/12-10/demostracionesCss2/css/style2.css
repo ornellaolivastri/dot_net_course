@@ -1,0 +1,41 @@
+#contenedor {
+    width: 700px;
+    margin: auto;
+    }
+     
+    td, table  {
+    border: solid 1px #000;
+    }
+     
+    table {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+     
+    .celda  {
+    border: solid 1px #000;
+    display: table-cell;
+    }
+     
+    .fila {
+    display: table-row;
+    }
+     
+    .col  {
+    display: column;
+    }
+     
+    .tabla  {
+    display: table;
+    border-spacing: 2px;
+    text-align: center;
+    border: solid 1px #000;
+    }
+     
+    .tabla-linea  {
+    display: inline-table;
+    border-spacing: 2px;
+    text-align: center;
+    border: solid 1px #000;
+    }
+    

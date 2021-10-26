@@ -1,0 +1,42 @@
+div{
+    width:150px;
+    height:100px;
+    border:1px solid red;
+    padding:1%;
+    }
+        
+    div{
+        overflow:scroll;
+/*
+ overflow:visible;    
+overflow:hidden;
+   
+*/
+    }
+
+
+        .inline { 
+        padding: 10px; 
+        background: #ccc; 
+        display: inline; 
+        }
+
+        .bloque {
+            padding: 10px;
+            background: #ccc;
+            display: block;
+            }
+          
+          .lineblock {
+            padding: 10px;
+            background: #f60;
+            display: inline-block;
+            width: 150px;
+            }
+          
+          .lista  {
+            display: list-item;
+            list-style-type: square;
+            }
+          
+      

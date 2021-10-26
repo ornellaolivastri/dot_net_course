@@ -1,0 +1,5 @@
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaSegura\bin\Debug\LibreriaSegura.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaSegura\bin\Debug\LibreriaSegura.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaSegura\obj\Debug\LibreriaSegura.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaSegura\obj\Debug\LibreriaSegura.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaSegura\obj\Debug\LibreriaSegura.pdb

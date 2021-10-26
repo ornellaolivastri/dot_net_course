@@ -1,0 +1,6 @@
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\bin\Debug\LibreriaEntidades.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\bin\Debug\LibreriaEntidades.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\obj\Debug\LibreriaEntidades.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\LibreriaEntidades\obj\Debug\LibreriaEntidades.pdb

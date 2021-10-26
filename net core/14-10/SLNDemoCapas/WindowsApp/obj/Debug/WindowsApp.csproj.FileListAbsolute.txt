@@ -1,0 +1,16 @@
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\WindowsApp.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\WindowsApp.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\LibreriaSegura.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\LibreriaSegura.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\LibreriaEntidades.dll
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\bin\Debug\LibreriaEntidades.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\14-10\SLNDemoCapas\WindowsApp\obj\Debug\WindowsApp.Empleados.resources

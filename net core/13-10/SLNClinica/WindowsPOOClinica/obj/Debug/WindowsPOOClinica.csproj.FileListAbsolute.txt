@@ -1,0 +1,10 @@
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\13-10\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.AssemblyReference.cache

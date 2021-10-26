@@ -1,0 +1,10 @@
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\bin\Debug\ejercicios_bucles_vectores.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\bin\Debug\ejercicios_bucles_vectores.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\bin\Debug\ejercicios_bucles_vectores.pdb
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.exe
+D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\introduccion a c#\ejercicios_bucles_vectores\obj\Debug\ejercicios_bucles_vectores.pdb
