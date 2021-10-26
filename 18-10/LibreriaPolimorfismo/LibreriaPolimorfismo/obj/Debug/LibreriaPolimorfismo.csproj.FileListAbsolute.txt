@@ -1,0 +1,5 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\LibreriaPolimorfismo\bin\Debug\LibreriaPolimorfismo.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\LibreriaPolimorfismo\bin\Debug\LibreriaPolimorfismo.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\LibreriaPolimorfismo\obj\Debug\LibreriaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\LibreriaPolimorfismo\obj\Debug\LibreriaPolimorfismo.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\LibreriaPolimorfismo\obj\Debug\LibreriaPolimorfismo.pdb

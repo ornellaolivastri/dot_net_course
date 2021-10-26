@@ -1,0 +1,6 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\bin\Debug\LibreriaFiguras.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\bin\Debug\LibreriaFiguras.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\obj\Debug\LibreriaFiguras.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\LibreriaFiguras\obj\Debug\LibreriaFiguras.pdb

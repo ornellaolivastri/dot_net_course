@@ -1,0 +1,13 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\bin\Debug\WindowsAppDemo.exe.config
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\bin\Debug\WindowsAppDemo.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\bin\Debug\WindowsAppDemo.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\bin\Debug\LibreriaPolimorfismo.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\bin\Debug\LibreriaPolimorfismo.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.Form1.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.Properties.Resources.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.csproj.GenerateResource.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.csproj.CopyComplete
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\18-10\LibreriaPolimorfismo\WindowsAppDemo\obj\Debug\WindowsAppDemo.pdb

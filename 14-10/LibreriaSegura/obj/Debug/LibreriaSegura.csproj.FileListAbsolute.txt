@@ -1,0 +1,6 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\bin\Debug\LibreriaSegura.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\bin\Debug\LibreriaSegura.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\obj\Debug\LibreriaSegura.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\obj\Debug\LibreriaSegura.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\obj\Debug\LibreriaSegura.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\LibreriaSegura\obj\Debug\LibreriaSegura.csproj.AssemblyReference.cache

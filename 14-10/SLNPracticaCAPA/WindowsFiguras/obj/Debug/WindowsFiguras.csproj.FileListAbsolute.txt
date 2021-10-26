@@ -1,0 +1,13 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\bin\Debug\WindowsFiguras.exe.config
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\bin\Debug\WindowsFiguras.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\bin\Debug\WindowsFiguras.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\bin\Debug\LibreriaFiguras.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\bin\Debug\LibreriaFiguras.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.Form1.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.Properties.Resources.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.GenerateResource.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.csproj.CopyComplete
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\SLNPracticaCAPA\WindowsFiguras\obj\Debug\WindowsFiguras.pdb

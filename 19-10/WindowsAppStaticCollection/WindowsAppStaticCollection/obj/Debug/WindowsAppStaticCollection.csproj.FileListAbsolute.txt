@@ -1,0 +1,11 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\bin\Debug\WindowsAppStaticCollection.exe.config
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\bin\Debug\WindowsAppStaticCollection.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\bin\Debug\WindowsAppStaticCollection.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.Form1.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.Properties.Resources.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.csproj.GenerateResource.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\19-10\WindowsAppStaticCollection\WindowsAppStaticCollection\obj\Debug\WindowsAppStaticCollection.frmProducto.resources

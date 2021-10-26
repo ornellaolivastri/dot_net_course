@@ -1,0 +1,10 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.Form1.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.Properties.Resources.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.GenerateResource.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.exe.config
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\bin\Debug\WindowsDataReader.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\20-10\WindowsDataReader\WindowsDataReader\obj\Debug\WindowsDataReader.pdb

@@ -1,0 +1,13 @@
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\bin\Debug\WindowsApp.exe.config
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\bin\Debug\WindowsApp.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\bin\Debug\WindowsApp.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.exe
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\bin\Debug\LibreriaSegura.dll
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\bin\Debug\LibreriaSegura.pdb
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.csproj.CopyComplete
+D:\Usuario\Orne\Desktop\proyectos\dot_net_course\14-10\WindowsApp\obj\Debug\WindowsApp.Form1.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaPolimorfismo", "LibreriaPolimorfismo\LibreriaPolimorfismo.csproj", "{15519D5B-0C44-44CF-9929-FC17A94BAFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAppDemo", "WindowsAppDemo\WindowsAppDemo.csproj", "{03445C59-3DF4-4464-AA04-133E8D2CA7B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15519D5B-0C44-44CF-9929-FC17A94BAFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15519D5B-0C44-44CF-9929-FC17A94BAFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15519D5B-0C44-44CF-9929-FC17A94BAFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15519D5B-0C44-44CF-9929-FC17A94BAFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03445C59-3DF4-4464-AA04-133E8D2CA7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03445C59-3DF4-4464-AA04-133E8D2CA7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03445C59-3DF4-4464-AA04-133E8D2CA7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03445C59-3DF4-4464-AA04-133E8D2CA7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23608C6E-76B2-47BB-9113-CD07547F29D0}
+	EndGlobalSection
+EndGlobal
