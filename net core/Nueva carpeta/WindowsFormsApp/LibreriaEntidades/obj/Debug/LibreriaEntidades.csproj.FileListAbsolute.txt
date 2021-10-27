@@ -1,2 +1,0 @@
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\15-10\WindowsFormsApp\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.AssemblyReference.cache
-D:\Usuarios\Orne\Desktop\proyectos\accenture dot Net technology\net core\15-10\WindowsFormsApp\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.CoreCompileInputs.cache
