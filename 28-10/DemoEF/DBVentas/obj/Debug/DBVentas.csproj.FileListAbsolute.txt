@@ -1,0 +1,6 @@
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\bin\Debug\DBVentas.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\bin\Debug\DBVentas.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\obj\Debug\DBVentas.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\obj\Debug\DBVentas.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\obj\Debug\DBVentas.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\DBVentas\obj\Debug\DBVentas.pdb
