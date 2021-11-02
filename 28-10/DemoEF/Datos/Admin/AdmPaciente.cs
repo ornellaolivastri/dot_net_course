@@ -42,7 +42,7 @@ namespace Datos.Admin
             {
                 pacienteOrigen.Nombre = paciente.Nombre;
                 pacienteOrigen.Apellido = paciente.Apellido;
-                pacienteOrigen.fechaNacimiento = paciente.fechaNacimiento;
+                pacienteOrigen.FechaNacimiento = paciente.FechaNacimiento;
                 pacienteOrigen.NroHistoriaClinica = paciente.NroHistoriaClinica;
                 pacienteOrigen.MedicoId = paciente.NroHistoriaClinica;
 

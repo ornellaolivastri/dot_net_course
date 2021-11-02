@@ -20,7 +20,8 @@ namespace Datos.Models
 
     public class Paciente
     {
-       
+       //constructor
+
 
         #region propiedades
 

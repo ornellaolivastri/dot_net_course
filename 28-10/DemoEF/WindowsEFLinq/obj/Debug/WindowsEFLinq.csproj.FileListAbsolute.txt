@@ -1,0 +1,14 @@
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.pdb

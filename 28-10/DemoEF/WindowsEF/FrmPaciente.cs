@@ -22,6 +22,11 @@ namespace WindowsEF
 
         private void FrmPaciente_Load(object sender, EventArgs e)
         {
+            traerPacientes();
+        }
+
+        private void traerPacientes()
+        {
             gridPacientes.DataSource = AdmPaciente.Listar();
         }
 
@@ -29,11 +34,21 @@ namespace WindowsEF
         {
             Paciente paciente = new Paciente()
             {
-                Nombre = "Lauri"
-                Apellido = "Ylönen";
-                FechaNacimiento 
+                Nombre = "Lauri",
+                Apellido = "Ylönen",
+                FechaNacimiento = new DateTime(1979, 04, 23),
+                NroHistoriaClinica = 1111,
+                MedicoId = 1
 
+            };
+
+
+            int filasAfectadas = AdmPaciente.Insertar(paciente);
+            if (filasAfectadas > 0)
+            {
+                traerPacientes();
             }
+
         }
     }
 }
