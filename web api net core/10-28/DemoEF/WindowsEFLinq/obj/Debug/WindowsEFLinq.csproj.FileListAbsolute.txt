@@ -1,0 +1,29 @@
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.pdb
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe.config
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\WindowsEFLinq.pdb
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.dll
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.xml
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.AssemblyReference.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Form1.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.Properties.Resources.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.GenerateResource.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.CoreCompileInputs.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.CopyComplete
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.exe
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEFLinq\obj\Debug\WindowsEFLinq.pdb

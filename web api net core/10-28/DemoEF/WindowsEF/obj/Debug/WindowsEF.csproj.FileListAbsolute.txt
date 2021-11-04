@@ -1,0 +1,37 @@
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\WindowsEF.exe.config
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\WindowsEF.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\WindowsEF.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\EntityFramework.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\EntityFramework.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.Form1.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.Properties.Resources.resources
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.GenerateResource.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.CoreCompileInputs.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.exe
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.AssemblyReference.cache
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\Datos.dll
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\Datos.pdb
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\bin\Debug\Datos.dll.config
+D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\WindowsEF\obj\Debug\WindowsEF.FrmPaciente.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\WindowsEF.exe.config
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\WindowsEF.exe
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\WindowsEF.pdb
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\Datos.dll
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\EntityFramework.dll
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\Datos.pdb
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\Datos.dll.config
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\EntityFramework.xml
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.AssemblyReference.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.Form1.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.FrmPaciente.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.Properties.Resources.resources
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.GenerateResource.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.CoreCompileInputs.cache
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.csproj.CopyComplete
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.exe
+C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\WindowsEF\obj\Debug\WindowsEF.pdb
