@@ -36,8 +36,8 @@ namespace Olivastri_Ornella.Controllers
 
         // Para mostrar los autos segun modelo
         // api/auto/traerPorNombre/modelo
-        [HttpGet("traerPorNombreYModelo/{marca}/{modelo}")]
-        public IEnumerable<Auto> traerPorNombreYModelo(string marca, string modelo)
+        [HttpGet("traerPorMarcaYModelo/{marca}/{modelo}")]
+        public IEnumerable<Auto> traerPorMarcaYModelo(string marca, string modelo)
         {
             var autos =
             (
