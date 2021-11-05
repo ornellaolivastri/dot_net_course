@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\4 web api net core\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
       "projectName": "WebApiPersonas",
-      "projectPath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
+      "projectPath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\4 web api net core\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
       "packagesPath": "C:\\Users\\Orne\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\11-1\\WebApiPersonas\\WebApiPersonas\\obj\\",
+      "outputPath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\4 web api net core\\11-1\\WebApiPersonas\\WebApiPersonas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

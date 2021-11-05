@@ -11,17 +11,3 @@ D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\Datos\obj\Debug\D
 D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\Datos\obj\Debug\Datos.pdb
 D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\Datos\obj\Debug\Datos.Migrations.initial.resources
 D:\Usuarios\Orne\Desktop\proyectos\dot_net_course\28-10\DemoEF\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\Datos.dll.config
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\Datos.dll
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\Datos.pdb
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\EntityFramework.dll
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\EntityFramework.xml
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.Migrations.initial.resources
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.csproj.CopyComplete
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.dll
-C:\Users\Orne\source\repos\dot_net_course\web api net core\10-28\DemoEF\Datos\obj\Debug\Datos.pdb

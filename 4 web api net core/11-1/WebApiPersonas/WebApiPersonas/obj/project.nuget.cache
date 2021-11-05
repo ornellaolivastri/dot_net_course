@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+a0/okC/0Pn/rAU971PzwGD1bh3/6zA/cOimaXqorXB4NOEhlPY85naG/ZAaJcHLh5gcqAgQljSR0tZ5575uQ==",
+  "dgSpecHash": "B3CS1yP7OGiLBcOToeILw/GlWeIWTclhKJlfT04iOUSa9Hlx5FSVVu4qq/9qzt9a4FbIRP4PJIAtmBw2moVFSQ==",
   "success": true,
-  "projectFilePath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
+  "projectFilePath": "D:\\Usuarios\\Orne\\Desktop\\proyectos\\dot_net_course\\4 web api net core\\11-1\\WebApiPersonas\\WebApiPersonas\\WebApiPersonas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orne\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Orne\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
