@@ -1,5 +1,5 @@
 ﻿
-@model IEnumerable<OperaWebSite2.Models.Opera>
+@model IEnumerable<OperaWebSite.Models.Opera>
 
 <!DOCTYPE html>
 
@@ -14,17 +14,30 @@
     </p>
 
     <table>
+
         <tr>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Title)
             </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Composer)
             </th>
+            
             <th>
                 @Html.DisplayNameFor(model => model.Year)
             </th>
+
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+
         </tr>
+
         @foreach (var item in Model)
         {
             <tr>
@@ -34,6 +47,7 @@
                 <td>
                     @Html.ActionLink("Detail", "Detail", new { id = item.OperaId })
                 </td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.OperaId })</td>
             </tr>
         }
     </table>

@@ -62,6 +62,62 @@ namespace OperaWebSite2.Controllers
             return View("Create", opera);
             }
 
-        
+
+        // GET
+        // Opera/Detail/id
+        // Opera/Detail/2
+        // el [http] es default, no hace falta agregarlo
+        public ActionResult Detail(int id)
+        {
+            Opera opera = context.Operas.Find(id);
+
+            if(opera != null)
+            {
+                return View("Detail", opera);
+            }
+            else
+            {
+                return HttpNotFound();
+            }
+
+        }
+
+
+        //GET  /Opera/Delete/Id
+
+        public ActionResult Delete(int id)
+        {
+            Opera opera = context.Operas.Find(id);
+
+
+            if (opera != null)
+            {
+                return View("Delete", opera);
+            }
+            else
+            {
+                return HttpNotFound();
+            }
+
+        }  
+
+
+
+        // /Opera/Delete
+        [HttpPost]
+        [ActionName("Delete")]
+        public ActionResult DeleteConfirmed(int id)
+        {
+
+            Opera opera = context.Operas.Find(id);
+
+            context.Operas.Remove(opera);
+            context.SaveChanges();
+
+            return RedirectToAction("Index");
+
+        }
+
+
     }
 }
