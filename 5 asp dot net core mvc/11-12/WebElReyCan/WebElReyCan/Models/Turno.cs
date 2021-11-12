@@ -18,11 +18,11 @@ namespace WebElReyCan.Models
         // FechaTurno HoraTurno NombreDueño Celular
         
         [Required(ErrorMessage = "Is required")]
-        public DateTime FechaTurno  { get; set; }
+        public string FechaTurno  { get; set; }
 
 
         [Required(ErrorMessage = "Is required")]
-        public TimeSpan HoraTurno { get; set; }
+        public string HoraTurno { get; set; }
         // TimeSpan (hora:min:seg)
 
 

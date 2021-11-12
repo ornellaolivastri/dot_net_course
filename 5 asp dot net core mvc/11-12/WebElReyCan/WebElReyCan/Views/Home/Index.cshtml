@@ -1,0 +1,17 @@
+﻿
+@{ ViewBag.Title = "Inicio | Peluquería canina"; }
+
+@section Left
+{
+    <h4> Cuidado del pelaje canino </h4>
+    <p>
+        Para cuidar el pelo de nuestras mascotitas, se debe escoger un cepillo y una tecnica de peinado que no los lastime, ya que esto destimulará la caída del pelo.
+    </p>
+    <p>
+        A su vez se debe elegir productos de lavado adecuados, cortar su pelo regularmente y asegurar una alimentación saludable.
+    </p>
+}
+
+<h2> Bienvenidos a todos :D </h2>
+<p><strong>Ingreso al sistema:</strong> @ViewBag.Date.</p>
+@Html.ActionLink("Ver turnos de hoy", "Index", "Turno")
