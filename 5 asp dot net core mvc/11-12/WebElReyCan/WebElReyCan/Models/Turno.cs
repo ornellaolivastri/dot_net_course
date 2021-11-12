@@ -13,21 +13,24 @@ namespace WebElReyCan.Models
 
     public class Turno
     {
-        public int IdTurno { get; set; }
+        [Key]
+        public int Id { get; set; }
 
         // FechaTurno HoraTurno NombreDueño Celular
         
         [Required(ErrorMessage = "Is required")]
-        public string FechaTurno  { get; set; }
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
+        public string Fecha  { get; set; }
 
 
         [Required(ErrorMessage = "Is required")]
-        public string HoraTurno { get; set; }
+        [DisplayFormat(DataFormatString = "{0:HH:mm}")]
+        public string Hora { get; set; }
         // TimeSpan (hora:min:seg)
 
 
         [Required(ErrorMessage = "Is required")]
-        public string NombreDueño { get; set; }
+        public string NombreDuenio { get; set; }
 
 
         [Required(ErrorMessage = "Is required")]
@@ -39,9 +42,9 @@ namespace WebElReyCan.Models
         [Required(ErrorMessage = "Is required")]
         public string NombreMascota { get; set; }
 
-        public string RazaMascota { get; set; }
+        public string Raza { get; set; }
 
-        public int EdadMascota { get; set; }
+        public int Edad { get; set; }
 
 
     }

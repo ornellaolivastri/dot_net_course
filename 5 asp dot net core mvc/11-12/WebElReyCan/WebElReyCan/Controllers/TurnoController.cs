@@ -20,7 +20,7 @@ namespace WebElReyCan.Controllers
             List<Turno> turnos =
             (
                 from turno in context.Turnos
-                where turno.FechaTurno == fechaActual
+                where turno.Fecha == fechaActual
                 select turno
             ).ToList<Turno>();
 

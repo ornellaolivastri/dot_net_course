@@ -1,0 +1,11 @@
+﻿body {
+    padding-top: 20px;
+    background-image: url("https://www.hola.com/imagenes/estar-bien/20190426140762/perro-huevo-pompom-gt/0-669-982/portada-pompom-t.jpg?filter=w600");
+    background-size: cover;
+    padding-bottom: 20px;
+    text-align: center;
+
+    text-shadow: -2px 2px 0 #34d16e, -4px 4px 0 #0a0e27;
+    font: italic bold 30px Georgia, Serif;
+    
+}
